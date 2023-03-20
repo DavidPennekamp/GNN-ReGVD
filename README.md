@@ -28,7 +28,8 @@ python run.py --output_dir=./saved_models/regcn_l2_hs128_uni_ws5_lr5e4 --model_t
 #### Requirements
 - Python 	3.7
 - Pytorch 	1.9
-- Transformer 	4.4
+- Transformers 	4.4
+- Scipy
 
 ## Cite  
 Please cite the paper whenever our ReGVD is used to produce published results or incorporated into other software:
