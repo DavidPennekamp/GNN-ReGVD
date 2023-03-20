@@ -26,7 +26,7 @@ python run.py --output_dir=./saved_models/regcn_l2_hs128_uni_ws5_lr5e4 --model_t
 ```
 
 #### Requirements
-- Python 	3.7
+- Python 	3.8
 - Pytorch 	1.14
 - Transformers 	4.26
 - Scipy		1.10
